@@ -1,5 +1,5 @@
 # collection of methods for spliting dataset
-Train-Test Split
+# Train-Test Split
 
 ML models requires a set of datasets needed to train-test-validate models.
 Your model can be prepared on the training dataset and predictions can be made and evaluated for the test dataset.
