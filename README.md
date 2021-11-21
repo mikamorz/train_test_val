@@ -11,6 +11,7 @@
 * [Rasgo Forum](https://forum.rasgoml.com) - форум Rasgo для вопросов об этих рецептах и ​​PyRasgo..
 * [Rasgo User Group Slack](https://join.slack.com/t/rasgousergroup/shared_invite/zt-nytkq6np-ANEJvbUSbT2Gkvc8JICp3g)
 * Video Tutorials on YouTube _(Coming Soon)_
+* [Feature Engineering in Python](https://towardsdatascience.com/feature-engineering-in-python-2fdb9bb8ee7a)
 
 ## Оглавление
 * Профилирование - Feature Profiling
